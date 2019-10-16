@@ -12,8 +12,6 @@ Gem::Specification.new do |s|
   s.description = %q{During the first stage of a security test, it's useful to enumerate website urls without making too much noise. Links can help in this using robots.txt or link in a web page telling you the website contents.}
   s.license     = "BSD"
 
-  s.rubyforge_project = "links"
-
   s.files         = `git ls-files`.split("\n")
   s.test_files    = `git ls-files -- {test,spec,features}/*`.split("\n")
   s.executables   = `git ls-files -- bin/*`.split("\n").map{ |f| File.basename(f) }
