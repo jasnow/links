@@ -14,7 +14,7 @@ GEM
     codesake_commons (0.70.0)
       rainbow
     connection_pool (2.2.3)
-    diff-lcs (1.4)
+    diff-lcs (1.4.2)
     domain_name (0.5.20190701)
       unf (>= 0.0.5, < 1.0.0)
     http-cookie (1.0.3)
