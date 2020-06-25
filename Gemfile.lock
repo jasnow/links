@@ -10,7 +10,7 @@ PATH
 GEM
   remote: https://rubygems.org/
   specs:
-    childprocess (3.0.0)
+    childprocess (4.0.0)
     codesake_commons (0.70.0)
       rainbow
     connection_pool (2.2.3)
@@ -39,8 +39,8 @@ GEM
     nokogiri (1.10.9)
       mini_portile2 (~> 2.4.0)
     ntlm-http (0.1.1)
-    overcommit (0.53.0)
-      childprocess (>= 0.6.3, < 4)
+    overcommit (0.54.0)
+      childprocess (>= 0.6.3, < 5)
       iniparse (~> 1.4)
     rainbow (3.0.0)
     rake (13.0.1)
