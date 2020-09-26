@@ -39,7 +39,7 @@ GEM
     nokogiri (1.10.10)
       mini_portile2 (~> 2.4.0)
     ntlm-http (0.1.1)
-    overcommit (0.55.0)
+    overcommit (0.56.0)
       childprocess (>= 0.6.3, < 5)
       iniparse (~> 1.4)
     rainbow (3.0.0)
