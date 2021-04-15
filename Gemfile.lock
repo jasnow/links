@@ -15,7 +15,7 @@ GEM
     childprocess (4.0.0)
     codesake_commons (0.70.0)
       rainbow
-    connection_pool (2.2.3)
+    connection_pool (2.2.5)
     diff-lcs (1.4.4)
     domain_name (0.5.20190701)
       unf (>= 0.0.5, < 1.0.0)
