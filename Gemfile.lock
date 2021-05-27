@@ -39,9 +39,9 @@ GEM
     net-http-digest_auth (1.4.1)
     net-http-persistent (4.0.1)
       connection_pool (~> 2.2)
-    nokogiri (1.11.5-x86_64-darwin)
+    nokogiri (1.11.6-x86_64-darwin)
       racc (~> 1.4)
-    nokogiri (1.11.5-x86_64-linux)
+    nokogiri (1.11.6-x86_64-linux)
       racc (~> 1.4)
     overcommit (0.57.0)
       childprocess (>= 0.6.3, < 5)
@@ -82,4 +82,4 @@ DEPENDENCIES
   rspec
 
 BUNDLED WITH
-   2.2.17
+   2.2.18
