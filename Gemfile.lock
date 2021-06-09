@@ -12,7 +12,7 @@ GEM
   specs:
     addressable (2.7.0)
       public_suffix (>= 2.0.2, < 5.0)
-    childprocess (4.0.0)
+    childprocess (4.1.0)
     codesake_commons (0.70.0)
       rainbow
     connection_pool (2.2.5)
